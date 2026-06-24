@@ -1,0 +1,6 @@
+{
+  "name": "EcoAcción 7093",
+  "description": "Landing Page para el Concurso Ambiental de la Institución Educativa República de Francia 7093",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
