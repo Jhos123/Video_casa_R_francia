@@ -20,10 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
  */
 const VIDEO_URLS = {
   // Example: 1: 'https://youtu.be/xxxxx'
-  1: 'https://youtu.be/Iv-JEge7bWY?si=21UYg7pI4RHf8rcR',
-  2: '', // <-- reemplaza con la URL del video 2
-  3: '', // <-- reemplaza con la URL del video 3
-  4: ''  // <-- reemplaza con la URL del video 4
+  1: 'https://drive.google.com/file/d/1gQTx-dvOXv8wn--x8Dfmhr9IG4mcgrYa/view?usp=sharing',
+  2: 'https://drive.google.com/file/d/1VwtxNFxAK6TtFo0zvt_RPjC_fDFAM19-/view?usp=sharing', // <-- reemplaza con la URL del video 2
 };
 
 /**
